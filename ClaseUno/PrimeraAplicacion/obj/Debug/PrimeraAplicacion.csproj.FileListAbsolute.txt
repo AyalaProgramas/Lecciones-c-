@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe.config
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.exe
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\bin\Debug\PrimeraAplicacion.pdb
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.exe
+C:\Users\alumno\Desktop\ClaseUno\PrimeraAplicacion\obj\Debug\PrimeraAplicacion.pdb
