@@ -1,0 +1,6 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\bin\Debug\proyectoconsola1.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\bin\Debug\proyectoconsola1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\bin\Debug\proyectoconsola1.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\obj\Debug\proyectoconsola1.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\obj\Debug\proyectoconsola1.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\proyectoconsola1\proyectoconsola1\obj\Debug\proyectoconsola1.pdb
