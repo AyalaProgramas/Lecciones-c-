@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\bin\Debug\clasecsharpnum3.exe.config
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\bin\Debug\clasecsharpnum3.exe
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\bin\Debug\clasecsharpnum3.pdb
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\obj\Debug\clasecsharpnum3.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\obj\Debug\clasecsharpnum3.exe
+C:\Users\alumno\Desktop\clasecsharpnum3\clasecsharpnum3\obj\Debug\clasecsharpnum3.pdb
