@@ -1,0 +1,5 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\entidades.clase05\entidades.clase05\obj\Debug\entidades.clase05.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\entidades.clase05\entidades.clase05\bin\Debug\entidades.clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\entidades.clase05\entidades.clase05\bin\Debug\entidades.clase05.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\entidades.clase05\entidades.clase05\obj\Debug\entidades.clase05.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\entidades.clase05\entidades.clase05\obj\Debug\entidades.clase05.pdb
